@@ -21,6 +21,6 @@ def solve(s):
 
 dd1 = solve('q w e r t y u i o pass d f g h j  k l z x c v b n m Q W E R T Y U I O P A S D F G H J  KLZ X C V B N M')
 dd2 = solve('1 w 2 r 3g')
-dd2 = solve('1w 2r 3grate  this3number 4internet')
+dd2 = solve('1w 2r 3grate  this3numbers 4internet')
 print(dd1)
 print(dd2)
